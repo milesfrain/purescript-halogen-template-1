@@ -1,0 +1,7 @@
+{
+  "mount": {
+    "dev": "/",
+    "output": "/output"
+  },
+  "plugins": []
+}
